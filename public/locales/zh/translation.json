@@ -1,0 +1,47 @@
+{
+  "common": {
+    "send": "发送",
+    "cancel": "取消",
+    "confirm": "确认",
+    "delete": "删除",
+    "edit": "编辑",
+    "save": "保存",
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功"
+  },
+  "auth": {
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出",
+    "email": "邮箱",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "rememberMe": "记住我",
+    "forgotPassword": "忘记密码？",
+    "noAccount": "还没有账号？",
+    "hasAccount": "已有账号？"
+  },
+  "sms": {
+    "recipient": "收件人",
+    "message": "短信内容",
+    "send": "发送短信",
+    "history": "短信历史",
+    "template": "短信模板",
+    "schedule": "定时发送",
+    "sendSuccess": "短信发送成功",
+    "sendFailed": "短信发送失败"
+  },
+  "settings": {
+    "theme": {
+      "title": "主题设置",
+      "darkMode": "深色模式",
+      "fontSize": "字体大小"
+    },
+    "notification": {
+      "title": "通知设置",
+      "sound": "声音提醒",
+      "desktop": "桌面通知"
+    }
+  }
+}

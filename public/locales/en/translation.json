@@ -1,0 +1,47 @@
+{
+  "common": {
+    "send": "Send",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "sms": {
+    "recipient": "Recipient",
+    "message": "Message",
+    "send": "Send SMS",
+    "history": "SMS History",
+    "template": "SMS Templates",
+    "schedule": "Schedule",
+    "sendSuccess": "SMS sent successfully",
+    "sendFailed": "Failed to send SMS"
+  },
+  "settings": {
+    "theme": {
+      "title": "Theme Settings",
+      "darkMode": "Dark Mode",
+      "fontSize": "Font Size"
+    },
+    "notification": {
+      "title": "Notification Settings",
+      "sound": "Sound",
+      "desktop": "Desktop Notifications"
+    }
+  }
+}
